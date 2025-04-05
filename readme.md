@@ -1,7 +1,7 @@
 # Gestion de Bibliothèque
-Ce projet est une démonstration simple d'un **système de gestion de bibliothèque** en `Pyhton`, basé sur les principes de la programmation orientée objet (POO).
+Ce projet est une démonstration simple d'un **système de gestion de bibliothèque** en `Python`, basé sur les principes de la programmation orientée objet (POO).
 
-## Ojectif
+## Objectif
 Le but de ce projet est d'illustrer comment utiliser **l'héritage**, **l'encapsulation** et la **réutilisation du code** en python à travers des classes représentant des livres et des ebooks.
 
 ## Fonctionnalités
