@@ -8,3 +8,7 @@ Le but de ce projet est d'illustrer comment utiliser **l'héritage**, **l'encaps
 * création d'une classe `Book` avec les attributs title et author
 * création d'une classe `Ebook` qui hérite de la classe `Book` et ajoute attribut file_size
 * utilisation de la méthode `super()` pour initialiser les attributs hérités
+* création de la classe `Library` qui gère:
+    * l'ajout de livres
+    * la recherche par titre
+    * la suppression de livres
